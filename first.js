@@ -14,6 +14,8 @@ console.log(PI);
 let price=12.34;
 console.log(price);
 yesorno=true;
+name="jayu";
+
 
 
 
